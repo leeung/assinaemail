@@ -1,0 +1,42 @@
+ @font-face{
+    font-family: "PadraoAssinatura5";
+    src: url('../fonts/Myriad Pro Bold Italic.ttf');
+}
+body{
+    background-image:  url("../img/fundo.png");
+	background-repeat: repeat-x;
+	background-color: #e2e2e2;
+}
+ canvas{
+    border: 1px solid black;
+}
+h3{
+    font-family: 'PadraoAssinatura5';
+}
+
+.corpo{
+    background-color: #ececec;
+}
+
+.labelLayout{
+    border: 2px solid #DAA520;
+}
+
+
+#slideShow{
+}
+#slideShow ul{margin-top: 10px;}
+#slideShow li{
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+         
